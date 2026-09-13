@@ -1,0 +1,14 @@
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\bin\Debug\net10.0\AcademyScheduleAnalyzer.exe
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\bin\Debug\net10.0\AcademyScheduleAnalyzer.deps.json
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\bin\Debug\net10.0\AcademyScheduleAnalyzer.runtimeconfig.json
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\bin\Debug\net10.0\AcademyScheduleAnalyzer.dll
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\bin\Debug\net10.0\AcademyScheduleAnalyzer.pdb
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\obj\Debug\net10.0\AcademyScheduleAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\obj\Debug\net10.0\AcademyScheduleAnalyzer.AssemblyInfoInputs.cache
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\obj\Debug\net10.0\AcademyScheduleAnalyzer.AssemblyInfo.cs
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\obj\Debug\net10.0\AcademyScheduleAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\obj\Debug\net10.0\AcademyScheduleAnalyzer.dll
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\obj\Debug\net10.0\refint\AcademyScheduleAnalyzer.dll
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\obj\Debug\net10.0\AcademyScheduleAnalyzer.pdb
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\obj\Debug\net10.0\AcademyScheduleAnalyzer.genruntimeconfig.cache
+C:\Users\baker\OneDrive\Desktop\AcademyScheduleAnalyzer\AcademyScheduleAnalyzer\obj\Debug\net10.0\ref\AcademyScheduleAnalyzer.dll
